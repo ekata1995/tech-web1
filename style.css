@@ -1,0 +1,153 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#nav-bar{
+  position: sticky;
+  top: 0;
+  z-index:10;
+}
+.navbar-brand img{
+  height: 40px;
+  padding-left: 30px;
+
+}
+.navbar-nav li{
+  padding: 0 10px;
+}
+.navbar-nav li a{
+  float: right;
+  text-align: left;
+}
+#nav-bar ul li a:hover{
+  color: #007bff!important;
+}
+.navbar{
+  background: #fff;
+}
+.navbar-toggler
+{
+  border: none!important;
+}
+.nav-link{
+  color: #555!important;
+  font-weight: 600;
+  font-size: 16px;
+}
+#slider{
+  width: 100%;
+}
+.carousel-caption{
+  margin-bottom: 20%;
+  margin-right: 40%;
+}
+
+.ai{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.cap{
+  margin-bottom: 20%;
+  margin-left: 30%;
+  font-size: 3rem;
+  line-height:1.5;
+}
+
+.header{
+  text-align: center;
+  margin-left: 45%;
+  margin-top: 10%
+}
+.para{
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 8%;
+  line-height: 1.5rem;
+}
+.re{
+  padding-bottom: 50px;
+  color:#555;
+}
+.btn{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+#about{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #fff;
+  background-color: #1f4068;
+}
+.un{
+  margin-top: 6%;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.prev{
+padding-left: 10px;
+}
+.section-heading{
+  text-align: center;
+}
+.head{
+  margin-left: 7%;
+}
+
+#pricing {
+  padding: 150px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+.img{
+  border-radius: 50%;
+  margin-left: 5%;
+  width:20%;
+  float: left;
+}
+.intro{
+  margin-top: 5%;
+  margin-left: 30%;
+  text-align: right;
+}
+.p{
+  text-align: center;
+}
+.s{
+  text-align: center;
+}
+.pa{
+  padding-top: 5%;
+}
+
+.contact-me{
+  background-color:#1f4068;
+  text-align: center;
+  color: #fff;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+  margin-left: 40%;
+
+}
+.bottom-container {
+  background-color: #555;
+  padding: 50px 0 20px;
+}
